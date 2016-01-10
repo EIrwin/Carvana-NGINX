@@ -1,3 +1,3 @@
 location /a/ {
-	proxy_pass http://a.carvana.svc.tutum.io:1234/;
+	proxy_pass http://a:1234/;
 }
